@@ -1,28 +1,3 @@
----
-title: Movie Recommender
-emoji: 🎬
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 5.25.0
-app_file: app.py
-pinned: false
----
+# Movie Recommender
 
-# 🎬 Movie Recommender System
-
-Content-based фильтр рекомендаций фильмов. Вводишь название - получаешь 10 похожих.
-
-## 🚀 Демо
-Попробуй ввести: Avatar, The Dark Knight, Inception, Toy Story
-
-## 📊 Как это работает
-- Использует данные TMDB 5000 (4803 фильма)
-- Анализирует жанры, актеров, режиссера, ключевые слова
-- Считает косинусную схожесть между фильмами
-
-## 🛠 Технологии
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Gradio
+https://huggingface.co/spaces/Polva31/movie-recommender
