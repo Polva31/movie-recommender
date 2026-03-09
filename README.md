@@ -14,7 +14,7 @@ pinned: false
 Content-based фильтр рекомендаций фильмов. Вводишь название - получаешь 10 похожих.
 
 ## 🚀 Демо
-Попробуй онлайн: [Hugging Face Space](https://huggingface.co/spaces/Polva31/movie-recommender)
+https://huggingface.co/spaces/Polva31/movie-recommender
 
 ## 📊 Как это работает
 - Использует данные TMDB 5000 (4803 фильма)
@@ -26,8 +26,3 @@ Content-based фильтр рекомендаций фильмов. Вводиш
 - Pandas, NumPy
 - Scikit-learn
 - Gradio
-
-## 🎯 Примеры
-- Avatar → научная фантастика, космос
-- The Dark Knight → похожие боевики
-- Toy Story → анимация, приключения
