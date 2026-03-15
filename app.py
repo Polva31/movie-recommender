@@ -36,4 +36,5 @@ iface = gr.Interface(
     examples=[["Avatar"], ["The Dark Knight"], ["Inception"], ["Toy Story"]]
 )
 
-iface.launch()
+iface.launch(share=True)
+
