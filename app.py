@@ -88,6 +88,6 @@ with gr.Blocks(title="Movie Recommender", theme=gr.themes.Soft()) as app:
     gr.Markdown("⚡ Работает на основе косинусной схожести • Данные: TMDB 5000")
 
 if __name__ == "__main__":
-    app.launch(ssr=False)
+    app.launch
 
 
